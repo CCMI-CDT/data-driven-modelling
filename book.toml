@@ -1,5 +1,5 @@
 [book]
-title = "TITLE OF YOUR TRAINING WEEK"
+title = "Data-driven modelling"
 authors = ["Timo Betcke", "Matthew Scroggs", "ADD NAMES HERE"]
 language = "en"
 src = "src"
