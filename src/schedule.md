@@ -10,9 +10,9 @@ Each day consists of a morning session from 10am to 12pm and an afternoon sessio
 
 ## Tuesday
 - Morning Session (10:00-12:00)
-  - Simulation-based inference and mechanistic modelling
+  - Mechanistic modelling, Bayesian inference and simulation-based inference
 - Afternoon Session (2:00-4:00)
-  - Python computer lab on simulation-based inference
+  - Python computer lab on simulation-based inference: [ABC Notebook](https://colab.research.google.com/github/CalumGabbutt/CCMI-CWIG-Bayes/blob/main/1_ABC.ipynb)
 
 ## Wednesday
 - Morning Session (10:00-12:00)
@@ -25,7 +25,7 @@ Each day consists of a morning session from 10am to 12pm and an afternoon sessio
   - Free morning for group presentations (10:30-12:00)
   - Biological background for advanced lab (11:30-12:00)
 - Afternoon session (2:00-4:00)
-  - Advanced Python and R computer lab
+  - Advanced Python and R computer lab: [SBI Notebook](https://colab.research.google.com/github/CalumGabbutt/CCMI-CWIG-Bayes/blob/main/2_NPE.ipynb)
 
 ## Friday
 - Morning Session (10:00-12:30)
